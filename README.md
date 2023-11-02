@@ -1,1 +1,1 @@
-# MCQ-Web-App
+# Quiz-Web-App
